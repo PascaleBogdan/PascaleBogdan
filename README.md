@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **pascale.bogdan@yahoo.com**
 
-- Meetings I attended: • Constanta Developers May Meetup (24 may 2022) • Constanta Developers Autumn Meetup (1 november 2022) • Constanta WordPress Meetup (23 november 2022) • Constanta Developers Meetup - The first in ‘23 (28 february 2023) • Google Workshop Presentation (27 march 2023) [• Constanta Developers May Meetup (24 may 2022) • Constanta Developers Autumn Meetup (1 november 2022) • Constanta WordPress Meetup (23 november 2022) • Constanta Developers Meetup - The first in ‘23 (28 february 2023) • Google Workshop Presentation (27 march 2023)](• Constanta Developers May Meetup (24 may 2022) • Constanta Developers Autumn Meetup (1 november 2022) • Constanta WordPress Meetup (23 november 2022) • Constanta Developers Meetup - The first in ‘23 (28 february 2023) • Google Workshop Presentation (27 march 2023))
-
+- Meetings I attended: • Constanta Developers May Meetup (24 may 2022) • Constanta Developers Autumn Meetup (1 november 2022) • Constanta WordPress Meetup (23 november 2022) • Constanta Developers Meetup - The first in ‘23 (28 february 2023) • Google Workshop Presentation (27 march 2023)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
