@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Pascale Bogdan</h1>
 <h3 align="center">Student at the Ovidius University of Constanta</h3>
 
-- Resume link: [https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/3965fea3-27e6-4d2e-8478-07d81a7b8cda?view=html](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/3965fea3-27e6-4d2e-8478-07d81a7b8cda?view=html)
 
 - 📫 How to reach me **pascale.bogdan@yahoo.com**
 
